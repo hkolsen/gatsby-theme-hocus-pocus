@@ -1,4 +1,10 @@
 {
+  "name": "gatsby-theme-hocus-pocus",
+  "author": "Heidi Olsen <swisswebmistress@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hkolsen/gatsby-theme-hocus-pocus"
+  },
   "private": true,
   "workspaces": [
     "theme",
